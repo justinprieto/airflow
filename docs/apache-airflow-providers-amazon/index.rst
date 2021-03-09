@@ -90,7 +90,7 @@ PIP package     Version required
 ==============  ====================
 ``boto3``       ``>=1.15.0,<1.16.0``
 ``botocore``    ``>=1.18.0,<1.19.0``
-``watchtower``  ``~=0.7.3``
+``watchtower``  ``~=1.0.6``
 ==============  ====================
 
 Cross provider package dependencies
